@@ -1,7 +1,7 @@
 #' @post /boolean
-#' @param string is Pyramid Word?
+#' @param str is Pyramid Word?
 #String Function
-function(string){
+function(str){
   flag<-TRUE
   count_numbers<-c()
   letters<-c()
