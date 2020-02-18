@@ -30,6 +30,11 @@ Running the Swagger UI at `http://127.0.0.1:XXXX/__swagger__/
 Step 6) Open link and Click on POST
 Step 7) Try your words to check if it is a Pyramid Word or not
 
+### Outputs
+
+![Image](https://github.com/AjithKumarVS/Web-Service-For-Testing-Pyramid-Number-Using-R/blob/master/Outputs/Output1.jpg?raw=TRUE)
+![Image](https://github.com/AjithKumarVS/Web-Service-For-Testing-Pyramid-Number-Using-R/blob/master/Outputs/Output2.jpg?raw=TRUE)
+
 ### Video Demonstration
 https://drive.google.com/open?id=1s-ZORdabh41-W5sOUO337i5hJYzmpfXm
 
